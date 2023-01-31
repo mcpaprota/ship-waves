@@ -1,7 +1,7 @@
 function eta = freeSurfaceElevation(eta_hat,kappa_i,kappa_j,x,y,isRefl)
 % calculates free-surface elevation based on amplitudes and eigenvalues of cosine expansion
 % Author: Maciej Paprota
-% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering (accepted manuscript)
+% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering, 271, 113796
 % Input data:
 % eta_hat - solution amplitudes (m)
 % kappa_i, kappa_j - solution aigenvalues (1/m)

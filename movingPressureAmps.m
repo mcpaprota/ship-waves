@@ -1,7 +1,7 @@
 function p_hat = movingPressureAmps(kappa_i,kappa_j,l,b,L,B,D,theta,X,Y,X_m0,Y_m0,theta_m0,isRefl)
 % moving pressure function spectral amplitudes
 % Author: Maciej Paprota
-% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering (accepted manuscript)
+% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering, 271, 113796
 % Input data:
 % L - ship hull m-th component length (m)
 % B - ship hull m-th component breadth (m)

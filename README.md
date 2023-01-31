@@ -11,3 +11,4 @@ movingPressure - a function calculating moving pressure values of a vessel in ph
 freeSurfaceElevation - a function calculating free-surface elevation in a fluid domain for given values calculated by shipWaves or shipWaves_lm;
 example_case - a numerical example of circular motion of a catamaran ship generating waves in deep water;
 example_case_lm - % a numerical example of circular motion of a catamaran ship generating waves in finite-depth water - low memory version.
+Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering, 271, 113796

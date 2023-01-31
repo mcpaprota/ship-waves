@@ -2,7 +2,7 @@
 % circular motion of a catamaran ship
 % gravity deep-water waves
 % Author: Maciej Paprota
-% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering (accepted manuscript)
+% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering, 271, 113796
 clear, clc, set(0,'defaulttextinterpreter','latex')
 % Initialization:
 g = 9.8145; % gravitational acceleration (m^2/s)

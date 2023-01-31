@@ -2,7 +2,7 @@ function [kappa, kappa_i, kappa_j, eta_hat, phi_hat, p_hat] = ...
     shipWaves(NumModel,Vessel,Constants)
 % Fourier Galerkin solution to gravity-capillary linear ship waves
 % Author: Maciej Paprota
-% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering (accepted manuscript)
+% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering, 271, 113796
 % Input data:
 l = NumModel.domainLength;
 b = NumModel.domainBreadth;

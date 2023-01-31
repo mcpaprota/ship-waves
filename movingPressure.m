@@ -1,7 +1,7 @@
 function p = movingPressure(x,y,Vessel,n)
 % moving pressure function
 % Author: Maciej Paprota
-% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering (accepted manuscript)
+% Reference: M. Paprota. 2023. A Fourier Galerkin method for ship waves. Ocean Engineering, 271, 113796
 % Input data:
 L = Vessel.hullLength;
 B = Vessel.hullBreadth;
